@@ -1,0 +1,4 @@
+osmgeodir
+=========
+
+OSM V GEODIR
